@@ -4,7 +4,7 @@
 	    		<div class="col-sm-12">    			   			
 					<h2 class="title text-center">Contact <strong>Us</strong></h2> 	    				
 					<div id="gmap" class="contact-map">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.8998369713504!2d91.84171921500361!3d24.90139798403461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750554e52cb7077%3A0xf183012d4710cc19!2sSylhet+International+University%2C+Sylhet!5e0!3m2!1sen!2sbd!4v1514232973440" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2760126756884!2d113.4074922143762!3d-7.760524679113423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd70124c80fcd47%3A0x571b45594eff89d6!2sHOUSE%20OF%20DMSNCLOTH!5e0!3m2!1sid!2sid!4v1591619149844!5m2!1sid!2sid" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 				</div>			 		
 			</div>    	
