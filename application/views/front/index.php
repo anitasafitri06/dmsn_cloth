@@ -72,9 +72,9 @@
 									<span class="caret"></span>
 								</button>
 								<ul class="dropdown-menu">
-									<li><a href="#">T-Shirt</a></li>
-									<li><a href="#">Hoodie</a></li>
-									<li><a href="#">Topi</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/6">T-Shirt</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/7">Hoodie</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/5">Topi</a></li>
 								</ul>
 							</div>
 							
