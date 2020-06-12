@@ -277,7 +277,7 @@
 					<div class="col-sm-7">
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="#">
+								<a href="http://localhost/dmsncloth/show-post-by-brand-id/6">
 									<div class="iframe-img">
 										<img src="<?php echo base_url()?>assets/front/images/home/bajubaru.jpg" alt="" />
 									</div>
@@ -292,7 +292,7 @@
 						
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="#">
+								<a href="http://localhost/dmsncloth/show-post-by-brand-id/7">
 									<div class="iframe-img">
 										<img src="<?php echo base_url()?>assets/front/images/home/15.jpg" alt="" />
 									</div>
@@ -307,7 +307,7 @@
 						
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="#">
+								<a href="http://localhost/dmsncloth/show-post-by-brand-id/5">
 									<div class="iframe-img">
 										<img src="<?php echo base_url()?>assets/front/images/home/topi3.jpg" alt="" />
 									</div>
