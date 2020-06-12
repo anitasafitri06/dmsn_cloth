@@ -339,8 +339,8 @@
 							<h2>Service</h2>
 							<ul class="nav nav-pills nav-stacked">
 								<li><a href="#">Online Help</a></li>
-								<li><a href="#">Contact Us</a></li>
-								<li><a href="#">Change Location</a></li>
+								<li><a href="http://localhost/dmsncloth/contact">Contact Us</a></li>
+								<li><a href="http://localhost/dmsncloth/contact">Change Location</a></li>
 								
 							</ul>
 						</div>
@@ -349,9 +349,9 @@
 						<div class="single-widget">
 							<h2>Quock Shop</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">T-Shirt</a></li>
-								<li><a href="#">Mens</a></li>
-								<li><a href="#">Womens</a></li>
+								<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/6">T-Shirt</a></li>
+								<li><a href="http://localhost/dmsncloth//show-post-by-sub-cat-id/30">Mens</a></li>
+								<li><a href="http://localhost/dmsncloth//show-post-by-sub-cat-id/29">Womens</a></li>
 								
 							</ul>
 						</div>
@@ -372,9 +372,9 @@
 						<div class="single-widget">
 							<h2>About DMSN</h2>
 							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">Company Information</a></li>
+								<li><a href="http://localhost/dmsncloth/contact">Company Information</a></li>
 								<li><a href="#">Careers</a></li>
-								<li><a href="#">Store Location</a></li>
+								<li><a href="http://localhost/dmsncloth/contact">Store Location</a></li>
 								<li><a href="#">Affillate Program</a></li>
 								<li><a href="#">Copyright</a></li>
 							</ul>
