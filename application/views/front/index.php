@@ -38,15 +38,15 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i>085853764672</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i>dmsncloth@gmail.com</a></li>
+								<li><a href="tel:085853764672"><i class="fa fa-phone"></i>085853764672</a></li>
+								<li><a href="https://dmsncloth@gmail.com"><i class="fa fa-envelope"></i>dmsncloth@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://m.facebook.com/profile.php?id=100012399571908&ref=content_filter"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
@@ -84,9 +84,9 @@
 									<span class="caret"></span>
 								</button>
 								<ul class="dropdown-menu">
-									<li><a href="#">Tess</a></li>
-									<li><a href="#">Jacket</a></li>
-									<li><a href="#">Beanie</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/6">Tess</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/7">Jacket</a></li>
+									<li><a href="http://localhost/dmsncloth/show-post-by-brand-id/5">Beanie</a></li>
 								</ul>
 							</div>
 						</div>
