@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ecommerce',
+	'hostname' => 'http://dmsncloth.mif-project.com',
+	'username' => 'u8823774_dmsncloth',
+	'password' => 'mif2017',
+	'database' => 'u8823774_dmsncloth',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
