@@ -28,13 +28,13 @@
 
 						<tr>
 							<td class="cart_product">
-								<a href=""><img  width="100" src="<?php echo $items['options']['pro_image']?>" alt=""></a>
+								<a href=""><img  width="90" src="<?php echo $items['options']['pro_image']?>" alt=""></a>
 							</td>
 							<td class="cart_description">
 								<h4><a href=""><?php echo $items['name']?></a></h4>
 							</td>
 							<td class="cart_price">
-								<p>Rp <?php echo $items['price']?></p>
+								<p>Rp <?php echo $items['price']?>.000</p>
 							</td>
 							<td class="cart_quantity">
 								<div class="cart_quantity_button">
@@ -50,7 +50,7 @@
 								</div>
 							</td>
 							<td class="cart_total">
-								<p class="cart_total_price">Rp <?php echo $items['subtotal']?></p>
+								<p class="cart_total_price">Rp <?php echo $items['subtotal']?>.000</p>
 							</td>
 							<td class="cart_delete">
 								<a class="cart_quantity_delete" href="<?php echo base_url()?>delete-to-cart/<?php echo $items['rowid']?>"><i class="fa fa-times"></i></a>
@@ -91,6 +91,7 @@
 							<li class="single_field">
 								<label>Province:</label>
 								<select>
+							     	<option>Select</option>
 									<option>Jawa Timur</option>
 									<option>Jawa Tengah</option>
 									<option>Jawa Barat</option>
@@ -128,11 +129,11 @@
 							<?php 
 								$cart_total = $this->cart->total();
 							?>
-							<li>Cart Sub Total <span>Rp <?php echo $cart_total;?></span></li>
+							<li>Cart Sub Total <span>Rp <?php echo $cart_total;?>.000</span></li>
 							<?php
 								$tax = ($cart_total*2)/100;
 							?>
-							<li>Eco Tax 2% <span>Rp <?php echo $tax?></span></li>
+							<li>Eco Tax 2% <span>Rp <?php echo $tax?>00</span></li>
 							<!-- Shipping Cost Dependend Quantity, price, buyer distance etc -->
 							<?php
 								$shiping = "0";
@@ -148,7 +149,7 @@
 									$shiping = 0;
 								}
 							?>
-							<li>Shipping Cost <span>Rp <?php echo $shiping?></span></li>
+							<li>Shipping Cost <span>Rp <?php echo $shiping?>.000</span></li>
 							<?php $g_total = $cart_total+$tax+$shiping;?>
 							<li>Total <span>
 								<?php
@@ -156,7 +157,7 @@
 									$gdata['g_total'] = $g_total;
 									$this->session->set_userdata($gdata);
 							 		echo "Rp $g_total";
-							 	?>
+							 	?>00
 							 </span></li>
 						</ul>
 							<form action="<?php echo base_url()?>update-cart-qty" method="post" >	
